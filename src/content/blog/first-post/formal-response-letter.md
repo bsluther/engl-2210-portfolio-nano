@@ -4,8 +4,6 @@ description: "This letter contains within it a response intended to formally add
 date: 2025-10-16
 ---
 
-## Formal Response Letter
-
 This document shall lay forth in precise terms a response pursuant to the preceding content,
 identified separately and not expressly endorsed nor confirmed herein.
 

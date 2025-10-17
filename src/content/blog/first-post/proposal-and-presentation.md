@@ -4,7 +4,6 @@ description: "A proposal and a presentation outling the proposal."
 date: 2025-10-16
 ---
 
-## Proposal and Presentation
 I propose that I present a proposal containg many propositions and, as appropriate, present those
 proposals in the present and future.
 

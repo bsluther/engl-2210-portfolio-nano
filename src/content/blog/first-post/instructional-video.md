@@ -4,9 +4,6 @@ description: "A killer instructional video I made."
 date: 2025-10-17
 ---
 
-## Instructional Video
-
-
 This video is freaking awesome, it teaches you pretty much everything you need to know.
 
 ### Audience
