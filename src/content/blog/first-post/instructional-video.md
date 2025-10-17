@@ -1,6 +1,6 @@
 ---
 title: "Instructional Video"
-description: "A killer instruction video I made."
+description: "A killer instructional video I made."
 date: 2025-10-17
 ---
 
