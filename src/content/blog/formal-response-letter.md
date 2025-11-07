@@ -8,7 +8,7 @@ The following letter addresses a hypothetical complaint raised by an employee. T
 to acknowledge and reiterate the employees concerns, accept responsibility where appropriate, and
 outline any steps the company will take in response to the issue.
 
-![response letter](../../../project2-response-letter-rev2.png)
+![response letter](../../project2-response-letter-rev2.png)
 
 ### Reflection
 This formal letter addresses a complaint raised by an employee. The letter sets out to acknowledge and reiterate the employees concerns, accept responsibility where appropriate, and outline any steps the company will take in response to the issue. These objectives are achieved by summarizing the concerns raised in the complaint, expressing appreciation that the complaint was raised in the first place, and then outlining the company's view and response on each facet of the complaint. I identified 3 main components of the original complaint: poor planning for disposal of steel materials, on-site communication restrictions, and staffing shortages. Each of these issues is addressed directly by describing the problem and the remediating actions that will be performed.
