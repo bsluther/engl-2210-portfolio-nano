@@ -1,7 +1,7 @@
 ---
 title: "Proposal and Presentation"
 description: "A proposal and a presentation outling the proposal."
-date: 2025-10-16
+date: 2025-10-01
 ---
 
 I propose that I present a proposal containg many propositions and, as appropriate, present those
